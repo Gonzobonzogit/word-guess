@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  margin: 20px;
+}
+#guessedLetters {
+  color: #a0e7a0;
+  font-weight: bold;
+}
+
+.stats {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
