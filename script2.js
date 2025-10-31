@@ -16,7 +16,6 @@ function pickNewWord() {
   chosenWord = words[Math.floor(Math.random() * words.length)];
   guessedLetters = [];       
   attemptsLeft = 10;         
-  console.log('New Word', chosenWord);
   updateDisplay();
 }
 
